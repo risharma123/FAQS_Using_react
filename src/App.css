@@ -1,0 +1,47 @@
+
+.box{
+    background-color: purple;
+    border-radius: 16px;
+    box-shadow: 0 0 6px 3px #d184ff;
+    margin: 100px;
+    width: 50%;
+    padding: 30px;
+}
+.text{
+    font-size: 20px;
+    font-weight: 900;
+    font-family: cursive;
+   
+}
+.container{
+    cursor: pointer;
+    border-bottom: 1px solid #c7c0c0;
+   
+
+}
+.question{
+    margin-bottom: 10px;
+}
+.question:hover{
+    font-weight: 800;
+    color:white;
+}
+.Answer{
+    margin: 0 0 10px 0px;
+    max-height: 0;
+    overflow :hidden;
+}
+.show{
+    margin: 0 0 10px 0px;
+    height: auto;
+    max-height: 9999px;;
+
+    
+}
+.plus{
+    float:right;
+    margin-top:2px;
+    font-size: 20px;
+    font-weight: 900;
+   
+}
